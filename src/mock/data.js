@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.png',
-  paragraphOne: 'For without art, there is no colour in life',
+  paragraphOne: '"For without art, there is no colour in life"',
   paragraphTwo: 'I have a degree in Electronic Engineering; however, I cannot say I am just an engineer. If you had to ask what I do in my free time, one day I could be learning a coding language or playing with a new hardware development kit. The next day I am reading Freakinomics to understand why suicide-bombers should buy life insurance, or on weekends I could be sitting in a coffee shop reading the paradox of the human nature.',
-  paragraphThree: 'I was born in South Africa in 1994, with both my parents originally from Mozambique. I speak English, Portuguese and little bit of Javascript.',
+  paragraphThree: 'I was born in South Africa in 1994, with my parents originally from Mozambique. I speak English, Portuguese and little bit of Javascript.',
   resume: '', // if no resume, the button will not show up
 };
 
