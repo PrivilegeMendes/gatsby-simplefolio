@@ -21,7 +21,8 @@ const Contact = () => {
               target="_blank"
               rel="noopener noreferrer"
               className="cta-btn cta-btn--resume"
-              href={email ? `mailto:${email}` : 'https://github.com/cobidev/react-simplefolio'}
+              // href={email ? `mailto:${email}` : 'https://github.com/privilegemendes'}
+              href="https://linkedin.com/in/privilegemendes"
             >
               {btn || "Let's Talk"}
             </a>
